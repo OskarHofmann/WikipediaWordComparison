@@ -1,5 +1,5 @@
 # WikipediaWordComparison
-Find similiarities of a list of words by finding common words in their respective Wikipedia pages
+Find commonalities between an arbitrary number of words, terms or concepts by finding common words in their respective Wikipedia pages
 
 Python module that looks up the Wikipedia page for a list of words, extracts the unique words in each article and find the words that all articles have in common.
 The most common words in the (German) language are also filtered out as most of them appear in nearly every page. 
